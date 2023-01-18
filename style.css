@@ -13,6 +13,9 @@ body {
 
 a {
   text-decoration: none;
+  color: black;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-weight: 800;
 }
 
 .newsletter {
@@ -33,4 +36,14 @@ a {
   padding: 10px;
   font-family: "PT SERIF", Georgia, "Times New Roman", Times, serif;
   font-weight: 900;
+}
+
+.navlinks {
+  display: flex;
+  justify-content: space-between;
+  list-style: none;
+}
+
+.more {
+  list-style: none;
 }
