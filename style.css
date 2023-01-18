@@ -43,3 +43,7 @@ a {
   justify-content: space-between;
   list-style: none;
 }
+
+.more {
+  list-style: none;
+}
