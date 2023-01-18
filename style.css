@@ -1,6 +1,22 @@
-.topheader {
-  margin-top: 200px;
+body {
+  margin-left: 100px;
+  margin-right: 100px;
+}
+
+
+.header {
   display: flex;
+  justify-content: space-between;
+  margin-top: 200px;
   align-items: center;
-  justify-content: space-around;
+}
+
+a {
+  text-decoration: none;
+}
+
+.newsletter {
+  color: #00bcfc;
+  font-weight: 900;
+  font-family: "PT SERIF", Georgia, "Times New Roman", Times, serif;
 }
