@@ -26,3 +26,11 @@ a {
   letter-spacing: -5px;
   font-family: "PT SERIF", Georgia, "Times New Roman", Times, serif;
 }
+
+.halfpricesale {
+  color: white;
+  background-color: #00bcfc;
+  padding: 10px;
+  font-family: "PT SERIF", Georgia, "Times New Roman", Times, serif;
+  font-weight: 900;
+}
