@@ -47,3 +47,9 @@ a {
 .more {
   list-style: none;
 }
+
+.b {
+  font-weight: 800;
+  color: black;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
