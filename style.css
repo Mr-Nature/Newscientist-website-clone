@@ -23,6 +23,12 @@ a {
   font-weight: 900;
   font-family: "PT SERIF", Georgia, "Times New Roman", Times, serif;
   margin-left: 90px;
+  letter-spacing: -1px;
+}
+
+.signup {
+  color: #999;
+  font-family: "PT Serif", Georgia, sans-serif;
 }
 
 .newscientist {
