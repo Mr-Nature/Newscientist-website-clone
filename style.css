@@ -76,3 +76,7 @@ a {
   text-decoration: #000 underline 10px;
   text-underline-offset: 5px;
 }
+
+.hover {
+  color:#00bcfc;
+}
