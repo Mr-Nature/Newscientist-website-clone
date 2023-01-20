@@ -22,11 +22,23 @@ a {
   color: #00bcfc;
   font-weight: 900;
   font-family: "PT SERIF", Georgia, "Times New Roman", Times, serif;
-  margin-left: 90px;
   letter-spacing: -1px;
 }
 
+.newsletter:hover {
+  color: #999;
+}
+
+.s:hover {
+  color: #999;
+  text-decoration: underline;
+}
+
 .signup {
+  margin-left: 90px;
+  display: flex;
+  flex-direction: column;
+  margin-right: 50px;
   color: #999;
   font-family: "PT Serif", Georgia, sans-serif;
 }
@@ -35,6 +47,7 @@ a {
   font-size: 60px;
   letter-spacing: -5px;
   font-family: "PT SERIF", Georgia, "Times New Roman", Times, serif;
+  margin-right: 50px;
 }
 
 .halfpricesale {
@@ -83,6 +96,6 @@ a {
   text-underline-offset: 5px;
 }
 
-.hover {
-  color:#00bcfc;
+.n {
+  color: #00bcfc;
 }
