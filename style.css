@@ -99,3 +99,11 @@ a {
 .n {
   color: #00bcfc;
 }
+
+div.headerline {
+  height: 1px;
+  width: 100%;
+  background-color: black;
+  margin-top: -10px;
+  margin-left: 50px;
+}
