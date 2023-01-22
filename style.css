@@ -118,3 +118,14 @@ div.headingone {
 div.headingtwo {
   margin-top: -60px;
 }
+
+.author {
+  display: flex;
+  flex-direction: column;
+  margin-left: 70px;
+}
+
+.lc {
+  color: #00bcfc;
+}
+
