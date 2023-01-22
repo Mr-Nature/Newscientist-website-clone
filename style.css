@@ -148,3 +148,21 @@ div.img-ref {
   font-family: Titillium Web, Helvetica, Trebuchet MS, Arial, sans-serif;
   font-size: 12px;
 }
+
+div.firstbody {
+  margin-left: 70px;
+  font-size: large;
+  font-family: Titillium Web, Helvetica, Trebuchet MS, Arial, sans-serif;
+}
+
+.exp {
+  color: #00bcfc;
+}
+
+div.secondbody {
+  margin-top: 30px;
+}
+
+.jm {
+  color: #00bcfc;
+}
