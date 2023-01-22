@@ -129,3 +129,22 @@ div.headingtwo {
   color: #00bcfc;
 }
 
+div.image {
+  margin-left: 70px;
+  margin-top: 20px;
+}
+
+div.img-credit {
+  margin-left: 70px;
+  color: brown;
+  font-family: Titillium Web, Helvetica, Trebuchet MS, Arial, sans-serif;
+  font-size: 12px;
+  font-weight: 600;
+}
+
+div.img-ref {
+  margin-left: 70px;
+  color: brown;
+  font-family: Titillium Web, Helvetica, Trebuchet MS, Arial, sans-serif;
+  font-size: 12px;
+}
