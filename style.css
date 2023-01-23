@@ -25,6 +25,10 @@ a {
 }
 
 .newsletter:hover {
+  color: #89cff0;
+}
+
+.s {
   color: #999;
 }
 
@@ -38,7 +42,6 @@ a {
   display: flex;
   flex-direction: column;
   margin-right: 50px;
-  color: #999;
   font-family: "PT Serif", Georgia, sans-serif;
 }
 
