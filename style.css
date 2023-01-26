@@ -59,6 +59,15 @@ a {
   font-weight: 900;
 }
 
+.sticky {
+  position:-webkit-sticky;
+  position:sticky;
+  top:0;
+  color:white;
+  padding-top:1px;
+  background-color: white;
+}
+
 .navlinks {
   display: flex;
   justify-content: space-between;
@@ -229,3 +238,5 @@ a {
 .NN {
   padding: 20px;
 }
+
+
