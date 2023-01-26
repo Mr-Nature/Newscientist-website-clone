@@ -60,11 +60,11 @@ a {
 }
 
 .sticky {
-  position:-webkit-sticky;
-  position:sticky;
-  top:0;
-  color:white;
-  padding-top:1px;
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+  color: white;
+  padding-top: 1px;
   background-color: white;
 }
 
