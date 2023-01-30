@@ -266,7 +266,7 @@ a {
   background-color: #f5f5f5;
   width: max-content;
   letter-spacing: -2px;
-  padding-right: 20px;
+  padding-right: 30px;
   padding-left: 5px;
   padding-top: 3px;
   padding-bottom: 5px;
@@ -278,8 +278,8 @@ a {
   background-color: #f5f5f5;
   width: max-content;
   letter-spacing: -2px;
-  padding-right: 20px;
-  padding-left: 5px;
+  padding-right: 30px;
+  padding-left: 7px;
   padding-top: 3px;
   padding-bottom: 5px;
   margin-right: 2px;
@@ -290,7 +290,7 @@ a {
   background-color: #f5f5f5;
   width: max-content;
   letter-spacing: -2px;
-  padding-right: 20px;
+  padding-right: 30px;
   padding-left: 5px;
   padding-top: 3px;
   padding-bottom: 5px;
@@ -299,4 +299,51 @@ a {
 
 .abl {
   font-weight: 500;
+}
+
+.ds {
+  display: flex;
+  font-size: large;
+  background-color: #f5f5f5;
+  width: max-content;
+  padding-top: 10px;
+  padding-bottom: -80px;
+  padding-right: 30px;
+  padding-left: 15px;
+  position: relative;
+  left: 60vmax;
+  bottom: 46vmax;
+  margin-top: -13px;
+}
+
+.p1 {
+  font-family: Titillium Web, Helvetica, Trebuchet MS, Arial, sans-serif;
+  color: #696969;
+}
+
+.p1:hover {
+  color: #00bcfc;
+}
+
+.p2 {
+  position: relative;
+  bottom: 1vmax;
+  font-family: Titillium Web, Helvetica, Trebuchet MS, Arial, sans-serif;
+}
+
+.p3 {
+  position: relative;
+  bottom: 2vmax;
+  margin-bottom: -5px;
+  font-family: Titillium Web, Helvetica, Trebuchet MS, Arial, sans-serif;
+}
+
+.n1 {
+  text-decoration: none;
+  font-weight: 1000;
+  font-size: xx-large;
+  position: relative;
+  left: 2vmax;
+  top: 2vmax;
+  color: #00bcfc;
 }
