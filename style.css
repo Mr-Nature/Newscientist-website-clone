@@ -238,3 +238,62 @@ a {
 .NN {
   padding: 20px;
 }
+
+.t {
+  background-color: #00bcfc;
+  width: max-content;
+  letter-spacing: -2px;
+  padding-right: 20px;
+  padding-left: 5px;
+  padding-top: 3px;
+  padding-bottom: 5px;
+}
+
+.t2 {
+  color: white;
+  font-weight: 500;
+}
+
+.aside-bar {
+  display: flex;
+  width: max-content;
+}
+
+.l {
+  background-color: #f5f5f5;
+  width: max-content;
+  letter-spacing: -2px;
+  padding-right: 20px;
+  padding-left: 5px;
+  padding-top: 3px;
+  padding-bottom: 5px;
+  margin-right: 2px;
+  margin-left: 2px;
+}
+
+.v {
+  background-color: #f5f5f5;
+  width: max-content;
+  letter-spacing: -2px;
+  padding-right: 20px;
+  padding-left: 5px;
+  padding-top: 3px;
+  padding-bottom: 5px;
+  margin-right: 2px;
+  margin-left: 2px;
+}
+
+.f {
+  background-color: #f5f5f5;
+  width: max-content;
+  letter-spacing: -2px;
+  padding-right: 20px;
+  padding-left: 5px;
+  padding-top: 3px;
+  padding-bottom: 5px;
+  margin-left: 2px;
+}
+
+.abl {
+  font-weight: 500;
+}
