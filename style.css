@@ -257,6 +257,9 @@ a {
 .aside-bar {
   display: flex;
   width: max-content;
+  position: relative;
+  left: 60vmax;
+  bottom: 47vmax;
 }
 
 .l {
