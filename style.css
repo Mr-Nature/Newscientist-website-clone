@@ -394,3 +394,50 @@ a {
   top: 2vmax;
   color: #00bcfc;
 }
+
+.wc {
+  background-color: #f5f5f5;
+  display: flex;
+  font-size: large;
+  width: max-content;
+  padding-top: 10px;
+  padding-bottom: -80px;
+  padding-right: 11px;
+  padding-left: 15px;
+  position: relative;
+  left: 60vmax;
+  bottom: 44vmax;
+  margin-top: -13px;
+}
+
+.p7 {
+  font-family: Titillium Web, Helvetica, Trebuchet MS, Arial, sans-serif;
+  color: #696969;
+}
+
+.p7:hover {
+  color: #00bcfc;
+}
+
+.p8 {
+  font-family: Titillium Web, Helvetica, Trebuchet MS, Arial, sans-serif;
+  position: relative;
+  bottom: 1vmax;
+}
+
+.p9 {
+  position: relative;
+  bottom: 2vmax;
+  margin-bottom: -5px;
+  font-family: Titillium Web, Helvetica, Trebuchet MS, Arial, sans-serif;
+}
+
+.n3 {
+  text-decoration: none;
+  font-weight: 1000;
+  font-size: xx-large;
+  position: relative;
+  right: -0.5vmax;
+  top: 2vmax;
+  color: #00bcfc;
+}
