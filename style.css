@@ -109,6 +109,29 @@ a {
   color: #00bcfc;
 }
 
+.material-icons {
+  color: #000;
+}
+
+.material-icons:hover {
+  color: #999;
+}
+
+.signin {
+  text-decoration: none;
+  color: black;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-weight: 700;
+  font-size: large;
+  position: relative;
+  bottom: 0.3vmax;
+}
+
+.signin:hover {
+  color: #999;
+  text-decoration: underline;
+}
+
 .headerline {
   height: 1px;
   width: 107%;
