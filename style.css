@@ -574,7 +574,7 @@ button.button-free:hover {
 
 .nlcb {
   background-color: #005587;
-  height: 200px;
+  height: 230px;
   width: 98vmax;
   font-family: Titillium Web, Helvetica, Trebuchet MS, Arial, sans-serif;
   font-weight: 600;
@@ -592,8 +592,13 @@ button.button-free:hover {
 
 label {
   color: black;
-  font-size: x-large;
+  font-size: xx-large;
   font-weight: 800;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.cb {
+  color:darkgrey;
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
